@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100">
+  <defs>
+    <linearGradient id="todo-gradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#8b5cf6" />
+      <stop offset="100%" stop-color="#6366f1" />
+    </linearGradient>
+  </defs>
+  <circle cx="50" cy="50" r="48" fill="url(#todo-gradient)" stroke="#60a5fa" stroke-width="2" />
+  <rect x="30" y="25" width="40" height="50" rx="4" fill="white" />
+  <rect x="35" y="35" width="30" height="3" rx="1.5" fill="#8b5cf6" />
+  <rect x="35" y="45" width="30" height="3" rx="1.5" fill="#8b5cf6" />
+  <rect x="35" y="55" width="20" height="3" rx="1.5" fill="#8b5cf6" />
+  <circle cx="27" cy="35" r="5" fill="#8b5cf6" stroke="white" stroke-width="2" />
+  <circle cx="27" cy="45" r="5" fill="#8b5cf6" stroke="white" stroke-width="2" />
+  <circle cx="27" cy="55" r="5" fill="#8b5cf6" stroke="white" stroke-width="2" />
+  <path d="M24,35 L26,37 L30,33" stroke="white" stroke-width="1.5" fill="none" />
+  <path d="M24,45 L26,47 L30,43" stroke="white" stroke-width="1.5" fill="none" />
+</svg> 
